@@ -8,7 +8,7 @@
 
 PS:
 
-a. Four halftone methods to simulate printers;
+a. Four halftone methods to simulate picture-printering ;
 
 b. Application of traditional methods for locating and classifying fruits;
 
